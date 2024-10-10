@@ -1,3 +1,5 @@
+# Contact Me For Updated Softwares
+- https://t.me/SizaGod
 # TikTok API for Follow, Comment, and Like
 
 This repository provides APIs for automating TikTok interactions, including following accounts, commenting on posts, and liking content. These APIs are fast, secure, and designed to seamlessly integrate with your app or service.
