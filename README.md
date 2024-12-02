@@ -1,4 +1,4 @@
-# Contact Me For Updated Softwares
+# Contact Me For Updated Softwares (Paid)
 - https://t.me/SizaGod
 # TikTok API for Follow, Comment, and Like
 
