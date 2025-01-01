@@ -14,7 +14,7 @@ This repository provides APIs for automating TikTok interactions, including foll
 
 ## How It Works
 
-1. Follow API:
+1. Follow API: 
    - Send a request to the API with the target account's TikTok ID, and the system will follow the account on behalf of the user.
 
 2. Comment API:
